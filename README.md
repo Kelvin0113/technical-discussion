@@ -9,3 +9,4 @@ This is a sample of [mycode](https://gist.github.com/Kelvin0113/416e431e77813a56
 ### Colab Example
 this is the [notebook](https://github.com/Kelvin0113/technical-discussion/blob/main/discussion.ipynb)
 ### Images
+![Screenshot (19)](https://github.com/Kelvin0113/technical-discussion/assets/62050497/d3dbaae5-fe25-4244-b8f1-f5c0528874ed)
